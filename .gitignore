@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+.git/
+.ipynb_checkpoints/
+weights/
+logs/
+test_output/
