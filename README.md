@@ -122,11 +122,11 @@ need full NuScenes dataset in your device in that case.
 ### 👜 Ready-to-use Dataset
 
 - You can directly use our created [dataset](https://sharedby.blomp.com/yE2FCo)
-(≈15 GB zipped, contains ≈10,000 Sets × 4.24MB ≈ 40GB).
+(≈15 GB zipped, contains ≈10,000 Sets × 4MB ≈ 40GB).
 
 ## *Credit*
 We originally implemented this project basing on following repos:
 - [MVDiffusion](https://github.com/Tangshitao/MVDiffusion): Stable Diffusion training & inference, CAA implementation.
 - [Diffusers](https://github.com/huggingface/diffusers): Stable Diffusion + Controlnet forward code.
 ## *Citation*
-[TO-BE-UPDATE]
+[TO-BE-UPDATED]
