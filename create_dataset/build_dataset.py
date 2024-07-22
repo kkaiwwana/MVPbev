@@ -27,7 +27,7 @@ if __name__ == '__main__':
     frames = []
     # try:
     for i in range(len(ds)):
-        frames += ds[i]
+        frames += ds.__getitem__(i, min_gap_distance=config.min_gap_distance)
 
     with tqdm(total=len(frames)) as pbar:
         for i, data in enumerate(ds.get_data(frames)):

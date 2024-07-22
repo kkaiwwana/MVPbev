@@ -46,7 +46,10 @@ pack_pers_semantic_to_byte = True
 pack_bev_map_to_byte = False
 
 # while generating, semantic data & ego pose will be rotated (angle in degree) for testing
-perspective_semantic_rotation_yaw = 20
+perspective_semantic_rotation_yaw = 0
+
+# we want to uniformly sample data w.r.t a constant gap distance
+min_gap_distance = 8
 
 
 enable_segmenter = True
