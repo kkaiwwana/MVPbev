@@ -30,7 +30,9 @@ will be made available.*
 <img src='assets/images/color_control_results.jpg'  alt="obj_control"/>
 
 ## 🔮 *Get Started*
-### 1. Create Dataset
+### 1.0 Environment Setup 
+- Use `pip install -r requirements.txt` to install all dependencies. Notably, **make sure** `torch.__version__ >= 2.1.0`.
+### 1.1 Create Dataset
 You should build a dataset for this project based on NuScenes dataset, or you can [download](#resources) datasets that we've already created.
 If you make it right, the dataset should be organized as following structure which is pretty simple:
 
@@ -126,5 +128,5 @@ need full NuScenes dataset in your device in that case.
 We originally implemented this project basing on following repos:
 - [MVDiffusion](https://github.com/Tangshitao/MVDiffusion): Stable Diffusion training & inference, CAA implementation.
 - [Diffusers](https://github.com/huggingface/diffusers): Stable Diffusion + Controlnet forward code.
-## Citation
+## *Citation*
 [TO-BE-UPDATE]
