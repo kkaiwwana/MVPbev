@@ -1,4 +1,4 @@
-# [MVPbev](dummy_paper_link)
+# [MVPbev](https://arxiv.org/abs/2407.19468)
 > Multi-view Perspective Image Generation from BEV with Test-time Controllability and Generalizability (*ACM MM24, Poster*)
 
 ### *Abstract*
@@ -129,4 +129,12 @@ We originally implemented this project basing on following repos:
 - [MVDiffusion](https://github.com/Tangshitao/MVDiffusion): Stable Diffusion training & inference, CAA implementation.
 - [Diffusers](https://github.com/huggingface/diffusers): Stable Diffusion + Controlnet forward code.
 ## *Citation*
-[TO-BE-UPDATED]
+```bibtex
+@inproceedings{liu2024mvpbev,
+  title={MVPbev: Multi-view Perspective Image Generation from BEV with Test-time Controllability and Generalizability},
+  author={Liu, Buyu and Wang, Kai and Liu, Yansong and Bao, Jun and Han, Tingting and Yu, Jun},
+  booktitle={Proceedings of the 32nd ACM International Conference on Multimedia},
+  pages={8393--8401},
+  year={2024}
+}
+```
