@@ -120,7 +120,7 @@ need full NuScenes dataset in your device in that case.
 - [Pretrained CVT model](https://mega.nz/folder/bNcFnSzJ#STMbFa1uM0V-iC5d-f_Upg) (for evaluation)
 
 ### 👜 Ready-to-use Dataset
-
+- Please check this [issue](https://github.com/kkaiwwana/MVPbev/issues/6) first.
 - You can directly use our created [dataset](https://sharedby.blomp.com/yE2FCo)
 (≈15 GB zipped, contains ≈10,000 Sets × 4MB ≈ 40GB).
 
