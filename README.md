@@ -121,7 +121,7 @@ need full NuScenes dataset in your device in that case.
 
 ### 👜 Ready-to-use Dataset
 - Please check this [issue](https://github.com/kkaiwwana/MVPbev/issues/6) first.
-- You can directly use our created [dataset](https://sharedby.blomp.com/IHJsUe)
+- You can directly use our created [dataset](https://sharedby.blomp.com/yE2FCo)
 (≈15 GB zipped, contains ≈10,000 Sets × 4MB ≈ 40GB).
 
 ## *Credit*
